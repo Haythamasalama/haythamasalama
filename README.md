@@ -1,6 +1,8 @@
-<h2 align="center">
+<h3 align="center">
   Haytham Salama
-</h2>
+</h3>
+
+<br/>
 
 <p align="center">
   <samp>
@@ -9,7 +11,7 @@
   </samp>
 </p>
 
-<hr style="height:1px !important" />
+<br/>
 
 <p align="center">
   <samp>
