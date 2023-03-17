@@ -1,13 +1,12 @@
 <h3 align="center">
-  Haytham Salama
+  Haytham A. Salama 🚀
 </h3>
 
 <br/>
 
 <p align="center">
   <samp>
-    Full-Stack Developer Laravel, Vuejs, Nuxtjs, Tawillindcss <br/>
-    Software Engineering
+    Full-Stack Engineer - Laravel, Vuejs, Nuxtjs, Tawillindcss <br/>
   </samp>
 </p>
 
